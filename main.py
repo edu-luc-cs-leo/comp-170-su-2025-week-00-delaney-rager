@@ -4,8 +4,15 @@
 # Problem 1
 """
 1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-2. 
-3.
+2. 2nd_name is not valid because it starts with a number, it must start with a letter or underscore.
+3. age is a valid name because there it is just a word but also it isn't predefined by python
+4. total_amount is perfectly valid as well because it is using snake case.
+5. while is not valid because it is predefined in python. Its specifically used for while loops, so it cannot be a valid variable name.
+6. Student is also valid as well because it is just a word, however, we don't typically capitalize variables.
+7. my-variable is not valid because it has a dash between the words which will return an error in python.
+8. for, like while, has a predefined function in python dedicated to running for loops, so it is not a valid variable name.
+9. _temp is valid because it uses snake case.
+10. value# is not a valid name because #s are special characters.
 Your solution goes here
 
 
