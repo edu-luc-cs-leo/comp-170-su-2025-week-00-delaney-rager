@@ -34,7 +34,16 @@ Your solution goes here
 """
 # Problem 3
 """
-Your solution goes here
+1. Valid, returns false because A(true) and B(false) gives A and B (false).
+2. Valid, returns true because A is true and B is comparing the length of the two strings and is also true.
+3. Valid, returns false because the statement is true but the not negates the true to a false.
+4. Not valid, because to compare in python you need "==" instead of just one "=".
+5. Not valid, because 5 does not return a true or false.
+6. Valid, returns false because the first one is true and the second one is false.
+7. Valid, this should return true because it is true that false is equal to false.
+8. Valid, this will return true because the statement is true. 
+9. Valid, this will return true because the expression evaluates to true or true which is true.
+10. Not valid, 5 and 4 don't return true or false.
 
 
 """
