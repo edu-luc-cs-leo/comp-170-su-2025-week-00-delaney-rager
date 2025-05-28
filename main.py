@@ -19,7 +19,16 @@ Your solution goes here
 """
 # Problem 2
 """
-1. Delaney
+1. calculate_total is a valid function name because it is written in snakecase.
+2. 3rd_function is invalid as a function name because it starts with a number.
+3.print_values is a valid function name because it is in snakecase.
+4. find-item is invlaid because it contains "-" which is a special character.
+5. def is invalid as a function name because it is a reserved word in python.
+6. updateProfile is a valid function name because it is just letters.
+7. my_function is a valid function name because it is in snake case.
+8. try is a valid function name because it is not a reserved word.
+9. init_data is a valid function name because it is in snake case.
+10. value@function is an invalid function name because "@" is a special character. 
 
 
 """
